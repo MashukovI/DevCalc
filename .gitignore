@@ -1,0 +1,28 @@
+# Target folder
+/target/
+!/mvnw
+!/mvnw.cmd
+!.gitignore
+!.mvn/wrapper/maven-wrapper.properties
+
+# IDEs
+/.idea/
+/.vscode/
+/.settings/
+*.iml
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# JDK folders
+/jdk-24/
+/Oracle_JDK-24/
+
+# Maven wrapper
+.mvn/wrapper/
+
+# Build output
+/build/
+/out/
